@@ -4,11 +4,7 @@
 ### 🛡 &nbsp;Discord Profile
 <a href="https://discord.com/users/995913592253710356" target="_blank">
                 <img width="100%" src="https://lanyard.cnrad.dev/api/995913592253710356" alt="Discord Status"/>
-            </a>
-            
-<a href="https://discord.gg/2wQyNDbyk3" target="_blank">
-                        <img width="100%" src="https://api.weblutions.com/discord/invite/2wQyNDbyk3" alt="Support Server">
-                    </a>
+     </a>
 
 ***
 
