@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/a8/e5/9c/a8e59cd6a342cc3df98f793229f8bc91.gif" width="400"/>
+  <img src="https://media1.tenor.com/m/a6S35wgiCOsAAAAC/deku-java.gif" width="400"/>
 </p>
 
 ### 🔥 GitHub Stats
