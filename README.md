@@ -26,7 +26,6 @@
 </div>
 <br>
 <div align="center">
-  Discord Accounts
   <a href="https://discord.com/users/406465220391731220" target="_blank">
     <img width="350" src="https://lanyard.cnrad.dev/api/406465220391731220" alt="First Account"/>
   </a>
